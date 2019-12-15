@@ -24,10 +24,6 @@
 [download-image]: https://img.shields.io/npm/dm/egg-amqplib-plus.svg?style=flat-square
 [download-url]: https://npmjs.org/package/egg-amqplib-plus
 
-<!--
-Description here.
--->
-
 ## Install
 
 ```bash
